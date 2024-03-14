@@ -44,7 +44,7 @@ SonarQube Static Test Analisys Result.
 
 ### TEST PLAN
 
-[Regression Test Plan](test-palns/regression-test-plan.pdf)
+[Regression Test Plan](test-plans/regression-test-plan.pdf)
 Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
@@ -58,8 +58,8 @@ Functional and Regression test results and report for each project release.
 
 #### Release version 1.1
 
-- [Functional Test Results and Bug Report 1.1](/qa/1.1testresults.pdf)
-- [Regression Test Results 1.1](/qa/1.1regressiontestresult.pdf)
+- [Functional Test Results and Bug Report 1.1](/test-results/functional-tests-results-and-bug-report1.1.pdf)
+- [Regression Test Results 1.1](/test-results/regression-test-results1.1.pdf)
 
 #### Release version 1.2
 
@@ -73,5 +73,5 @@ Functional and Regression test results and report for each project release.
 
 ## AUTHOR
 
-Reyes Cuesta, QA Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+Rebeca Arias, QA Engineer
+[LinkedIn Profile](https://www.linkedin.com/in/rebeca-arias-antolin-57961a128/)

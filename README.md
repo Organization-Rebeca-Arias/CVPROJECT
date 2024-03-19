@@ -17,7 +17,11 @@ This project is using JIRA tool for project management and defect traking follow
 
 This project includes a Demo Video of each functionallity developed.
 
-- [DEMO VIDEOS](/demo/)
+- [DEMO VIDEOS](/demo/cp-1-personal-profile.webm)
+- [DEMO VIDEOS](/demo/cp-2-contact.webm)
+- [DEMO VIDEOS](/demo/cp-3-skills.webm)
+- [DEMO VIDEOS](/demo/cp-4-languages.webm)
+- [DEMO VIDEOS](/demo/cp-5-links.webm)
 
 ## TEST STRATEGY
 
@@ -49,7 +53,7 @@ Complete Regression Test Plan of the project.
 
 ### TEST COVERAGE AND LIVE DOCUMENTATION
 
-[BDD Test Coverage](/test-plan/functional-test-plan-and-bdd-coverage.pdf)
+[BDD Test Coverage](/test-plans/functional-test-plan-and-bdd-coverage.pdf)
 Complete Functional BDD test coverage of the project.and live documentation
 
 ### TEST RESULTS
@@ -63,13 +67,8 @@ Functional and Regression test results and report for each project release.
 
 #### Release version 1.2
 
-- [Functional Test Results and Bug Report 1.2](/qa/1.2testresults.pdf)
-- [Regression Test Results 1.2](/qa/1.2regressiontestresult.pdf)
-
-#### Release version 1.3
-
-- [Functional Test Results and Bug Report 1.3](/qa/1.3testresults.pdf)
-- [Regression Test Results 1.3](/qa/1.3regressiontestresult.pdf)
+- [Functional Test Results and Bug Report 1.2](/test-results/functional-tests-results-and-bug-report1.2.pdf)
+- [Regression Test Results 1.2](/test-results/regression-test-results1.2.pdf)
 
 ## AUTHOR
 

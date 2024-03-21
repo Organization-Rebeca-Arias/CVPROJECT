@@ -22,6 +22,9 @@ This project includes a Demo Video of each functionallity developed.
 - [DEMO VIDEOS](/demo/cp-3-skills.webm)
 - [DEMO VIDEOS](/demo/cp-4-languages.webm)
 - [DEMO VIDEOS](/demo/cp-5-links.webm)
+- [DEMO VIDEOS](/demo/cp-6-work-experience.webm)
+- [DEMO VIDEOS](/demo/cp-7-education-qualifications.webm)
+- [DEMO VIDEOS](/demo/cp-9-projects.webm)
 
 ## TEST STRATEGY
 

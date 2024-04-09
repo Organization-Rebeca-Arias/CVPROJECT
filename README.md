@@ -17,14 +17,14 @@ This project is using JIRA tool for project management and defect traking follow
 
 This project includes a Demo Video of each functionallity developed.
 
-- [DEMO VIDEOS](/demo/cp-1-personal-profile.webm)
-- [DEMO VIDEOS](/demo/cp-2-contact.webm)
-- [DEMO VIDEOS](/demo/cp-3-skills.webm)
-- [DEMO VIDEOS](/demo/cp-4-languages.webm)
-- [DEMO VIDEOS](/demo/cp-5-links.webm)
-- [DEMO VIDEOS](/demo/cp-6-work-experience.webm)
-- [DEMO VIDEOS](/demo/cp-7-education-qualifications.webm)
-- [DEMO VIDEOS](/demo/cp-9-projects.webm)
+- [DEMO VIDEOS](/demo-video/cp-1-demo-personal-profile.webm)
+- [DEMO VIDEOS](/demo-video/cp-2-demo-contact.webm)
+- [DEMO VIDEOS](/demo-video/cp-3-demo-skills.webm)
+- [DEMO VIDEOS](/demo-video/cp-4-demo-languages.webm)
+- [DEMO VIDEOS](/demo-video/cp-5-demo-links.webm)
+- [DEMO VIDEOS](/demo-video/cp-6-demo-work-experience.webm)
+- [DEMO VIDEOS](/demo-video/cp-7-demo-education-qualifications.webm)
+- [DEMO VIDEOS](/demo-video/cp-9-demo-projects.webm)
 
 ## TEST STRATEGY
 
